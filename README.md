@@ -1,4 +1,4 @@
-#objective neural network som perceptron
+#Objective Neural Network Som Perceptron
 
 The objective oriented implementation of *"Cheng-Yuan Liou and Wei-Chen Cheng (2011), Forced Accretion and Assimilation Based on Self-organizing Neural Network, Self Organizing Maps - Applications and Novel Algorithm Design,Chapter 35 in Book edited by: Josphat Igadwa Mwasiagi, page 683-702, ISBN: 978-953-307-546-4,Publisher: InTech, Publishing date: January 2011"*.
 
