@@ -1,4 +1,4 @@
-#objective neural network back propagation
+#Objective Neural Network Back Propagation
 
 Almost all of the neural network back propagation implementation I found in public domain is matrix-based.I think the object-based implementation with real graph composed by nodes and edges is much more intuitive to me.
 
