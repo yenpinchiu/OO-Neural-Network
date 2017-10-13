@@ -1,8 +1,8 @@
-#Objective Neural Network Back Propagation
+# OO Neural Network
 
-Almost all of the neural network back propagation implementation I found in public domain is matrix-based.I think the object-based implementation with real graph composed by nodes and edges is much more intuitive to me.
+Almost all of the neural network implementation I found in public domain is matrix-based.But Object-based implementation with real graph composed by nodes and edges is much more interesting to me.So I implement one for fun.
 
-usage:
+Back Propagation Usage:
 
 Build a network
 network = network(input layer size,layer1 size,layer2 size,...,layern size,output layer size) 
